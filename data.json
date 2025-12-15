@@ -1,0 +1,100 @@
+{
+  "profile": {
+    "cv_url": "CV_Dimas Dzikra Pratama.pdf",
+    "email": "dimasdzikra@apps.ipb.ac.id"
+  },
+
+  "projects": [
+    {
+      "id": 1,
+      "img": "images/rcpo-web.png",
+      "title": "SISTEM ROBOT PEMBERSIH KOTORAN SAPI DENGAN DETEKSI BERBASIS MACHINE LEARNING DAN KONTROL WEB",
+      "role_en": "Project Manager",
+      "role_id": "Project manager",
+      "tools": "ESP 32, YOLOv8, Ultrasonic Sensor, Laravel/ 2025",
+      "desc_en": "A robotics and computer-vision–based solution for automating cattle barn cleaning, featuring real-time manure detection powered by YOLOv8, ESP32-based motion control, and a web dashboard for live monitoring of cleaning status, waste capacity, and battery levels. This project provides a complete blueprint for developing the next generation of smart farming automation prototypes.",
+      "desc_id": "Sebuah solusi berbasis robotik dan computer vision untuk otomatisasi kebersihan kandang sapi, dilengkapi sistem deteksi kotoran real-time menggunakan YOLOv8, integrasi ESP32 untuk kendali gerak, serta dashboard web untuk monitoring proses pembersihan, kapasitas limbah, dan status baterai secara langsung. Proyek ini dirancang sebagai blueprint lengkap untuk pengembangan prototipe smart farming generasi berikutnya.",
+      "link": "https://smartcow-web.vercel.app/"
+    },
+    {
+      "id": 2,
+      "img": "images/perkakas.jpg",
+      "title": "MEJA RAK PENYIMPANAN PERKAKAS",
+      "role_en": "Tim Mekanik",
+      "role_id": "Mechanical Team",
+      "tools": "Loadcell, LED/ 2025",
+      "desc_en": "This project aims to design and create an ergonomic and efficient tool-storage workbench for MSME workshop workers, with a focus on reducing the risk of musculoskeletal pain. The rack design, measuring 121 cm × 50 cm × 124.5 cm, uses Galvanized Hollow Steel and Steel Plates to ensure long-term durability and functionality. The rack legs have been modified from static supports to rotating caster wheels with manual locks to improve mobility within the workspace. In addition to the mechanical aspects, the project integrates a weight-detection system using a Load Cell sensor and an HX711 module to monitor tool availability and trigger indicators such as LED lights. Although the electronic system faced constraints and could not be physically implemented before the deadline, the design has been documented for further development. Overall, the mechanical components have been completed and meet the main objectives of the project.",
+      "desc_id": "Proyek ini bertujuan merancang dan membuat meja rak penyimpanan perkakas yang ergonomis dan efisien untuk pekerja bengkel UMKM, dengan fokus mengurangi risiko nyeri muskuloskeletal. Desain rak berdimensi 121 cm x 50 cm x 124,5 cm menggunakan material Besi Hollow Galvanis dan Besi Plat untuk menjamin ketahanan dan fungsionalitas jangka panjang. Kaki rak telah dimodifikasi dari statis menjadi beroda putar dengan pengunci manual untuk mobilitas yang lebih mudah di area kerja. Selain aspek mekanik, proyek ini mengintegrasikan sistem deteksi berat berbasis sensor Load Cell dan modul HX711 untuk memantau ketersediaan perkakas dan memicu indikator seperti lampu LED. Meskipun sistem elektronik terkendala dan belum diimplementasikan secara fisik sebelum batas waktu, rancangan telah didokumentasikan untuk pengembangan lebih lanjut. Secara umum, bagian mekanik telah selesai dan memenuhi tujuan utama proyek.",
+      "link": "videos/perkakas_video.mp4"
+    },
+    {
+      "id": 3,
+      "img": "images/mobile.jpg",
+      "title": "Sistem Deteksi Anti-Maling Menggunakan Sensor PIR dengan Integrasi Web dan Firebase",
+      "role_en": "IOT Developer",
+      "role_id": "Pengembang IOT",
+      "tools": "ESP32, PIR Sensor, Firebase Realtime Database, Web Dashboard/ 2025",
+      "desc_en": "Built an IoT-based security system using a PIR sensor for real-time motion detection. Integrated Firebase Realtime Database for continuous monitoring and event logging. Developed a web dashboard to visualize alerts, timestamps, and detected activity, improving system responsiveness through optimized data transmission and sensor calibration.",
+      "desc_id": "Membangun sistem keamanan berbasis IoT menggunakan sensor PIR untuk mendeteksi gerakan secara real time. Mengintegrasikan Firebase Realtime Database untuk pemantauan berkelanjutan dan pencatatan aktivitas. Mengembangkan dashboard web untuk menampilkan status peringatan, timestamp, dan aktivitas yang terdeteksi, serta meningkatkan responsivitas sistem melalui optimasi transmisi data dan kalibrasi sensor.",
+      "link": "#"
+    },  
+    {
+      "id": 4,
+      "img": "images/sensor.jpg",
+      "title": "Automatic Earthquake Detector using ADXL355 Sensor",
+      "role_en": "Embedded Systems Engineer",
+      "role_id": "Engineer Sistem Tertanam",
+      "tools": "ADXL335/ADXL355, Microcontroller, Vibration Detection Algorithm/ 2024",
+      "desc_en": "Developed a vibration alert system to detect abnormal motion and provide early emergency warnings. Analyzed vibration patterns to identify indicators of mechanical failure or hazardous conditions. Integrated ADXL335/ADXL355 accelerometers with a microcontroller for real-time data processing, and implemented detection algorithms to trigger alerts when abnormal vibration thresholds were exceeded.",
+      "desc_id": "Mengembangkan sistem peringatan getaran untuk mendeteksi gerakan abnormal dan memberikan peringatan dini. Menganalisis pola getaran untuk mengidentifikasi indikasi kegagalan mekanis atau kondisi berbahaya. Mengintegrasikan akselerometer ADXL335/ADXL355 dengan mikrokontroler untuk pemrosesan data secara real time, serta menerapkan algoritma deteksi yang memicu alarm ketika ambang getaran abnormal terlampaui.",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "img": "images/radig.jpg",
+      "title": "Object Counter System with Seven-Segment Display",
+      "role_en": "Electronic System Designer",
+      "role_id": "Perancang Sistem Elektronika",
+      "tools": "IR Sensor, IC 4026, Seven-Segment Display, Proteus",
+      "desc_en": "Built an automated object-counting system using an IR sensor, IC 4026, and seven-segment display. Simulated and validated circuit behavior in Proteus before hardware implementation. Developed a conveyor-based prototype capable of accurate real-time object detection, improving counting efficiency and reducing manual errors through optimized sensor integration.",
+      "desc_id": "Membangun sistem penghitung objek otomatis menggunakan sensor IR, IC 4026, dan seven-segment display. Melakukan simulasi dan validasi perilaku rangkaian di Proteus sebelum implementasi hardware. Mengembangkan prototipe berbasis konveyor yang mampu mendeteksi objek secara real time dengan akurat, meningkatkan efisiensi penghitungan dan mengurangi kesalahan manual melalui integrasi sensor yang optimal.",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "img": "images/elektronika.jpg",
+      "title": "Electric Piano using NE555 Timer IC",
+      "role_en": "Electronics Hobbyist / Circuit Designer",
+      "role_id": "Perancang Rangkaian Elektronika",
+      "tools": "NE555 Timer IC, Analog Circuit Components",
+      "desc_en": "Designed and assembled an electronic piano circuit using the NE555 timer to generate distinct audio frequencies. Optimized component configurations to achieve stable tone output across multiple keys, while strengthening understanding of analog electronics, timing circuits, and frequency modulation.",
+      "desc_id": "Merancang dan merakit rangkaian piano elektronik menggunakan IC NE555 untuk menghasilkan frekuensi audio yang berbeda. Mengoptimalkan konfigurasi komponen agar nada yang dihasilkan stabil pada berbagai tombol, sekaligus meningkatkan pemahaman mengenai elektronika analog, rangkaian timing, dan modulasi frekuensi.",
+      "link": "#"
+    }
+
+
+
+  ],
+  "certificates": [
+    {
+      "id": 101,
+      "img": "https://via.placeholder.com/600x400/e2e8f0/64748b?text=Google+Certificate",
+      "title": "Google IT Automation with Python",
+      "issuer": "Google",
+      "date": "2023",
+      "desc_en": "Professional certificate covering Python scripting, Git, and automation.",
+      "desc_id": "Sertifikat profesional yang mencakup scripting Python, Git, dan otomatisasi.",
+      "link": "#"
+    },
+    {
+      "id": 102,
+      "img": "https://via.placeholder.com/600x400/e2e8f0/64748b?text=Cisco+Certificate",
+      "title": "CCNA: Introduction to Networks",
+      "issuer": "Cisco",
+      "date": "2022",
+      "desc_en": "Networking fundamentals, IP addressing, and router configuration.",
+      "desc_id": "Dasar-dasar jaringan, pengalamatan IP, dan konfigurasi router.",
+      "link": "#"
+    }
+  ]
+}
