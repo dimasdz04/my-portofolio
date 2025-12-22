@@ -79,11 +79,11 @@
     {
       "id": 101,
       "img": "https://via.placeholder.com/600x400/e2e8f0/64748b?text=Google+Certificate",
-      "title": "Google IT Automation with Python",
-      "issuer": "Google",
+      "title": "CCNA: Switching, Routing, and Wireless Essentials",
+      "issuer": "Cisco",
       "date": "2023",
-      "desc_en": "Professional certificate covering Python scripting, Git, and automation.",
-      "desc_id": "Sertifikat profesional yang mencakup scripting Python, Git, dan otomatisasi.",
+      "desc_en": "Switching concepts, VLAN configuration, inter-VLAN routing, and wireless LAN fundamentals.",
+      "desc_id": "Konsep switching, konfigurasi VLAN, routing antar-VLAN, dan dasar jaringan nirkabel.",
       "link": "#"
     },
     {
@@ -91,7 +91,7 @@
       "img": "images/ccna1.png",
       "title": "CCNA: Introduction to Networks",
       "issuer": "Cisco",
-      "date": "2022",
+      "date": "2023",
       "desc_en": "Networking fundamentals, IP addressing, and router configuration.",
       "desc_id": "Dasar-dasar jaringan, pengalamatan IP, dan konfigurasi router.",
       "link": "#"
@@ -99,5 +99,6 @@
   ]
 
 }
+
 
 
