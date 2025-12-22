@@ -9,9 +9,9 @@
       "id": 1,
       "img": "images/pelcutron-project.jpg",
       "title": "PELCUTRON (Pellet Automation System): Pakan Ayam dengan Kendali Kecepatan Variatif dan Load Cell Otomatis",
-      "role_en": "IoT & Embedded System Developer",
-      "role_id": "Pengembang IoT & Sistem Tertanam",
-      "tools": "ESP32, HX711 Load Cell, BTS7960 Driver, Servo, Laravel / 2025",
+      "role_en": "Elektrical Team",
+      "role_id": "Tim Elektro",
+      "tools": "ESP32, HX711 Load Cell, Motor Controiller, Servo, Laravel / 2025",
       "desc_en": "An integrated automation solution for poultry feed pelletizing featuring variable speed control and precise weight measurement. The system utilizes ESP32 for main control, Load Cell HX711 for automatic gate actuation to prevent overfeeding, and a Laravel-based web dashboard for real-time monitoring of production status, RPM parameters, and energy cost estimation.",
       "desc_id": "Solusi otomatisasi terpadu untuk pencacahan pakan pelet ayam yang dilengkapi kendali kecepatan variatif dan pengukuran berat presisi. Sistem ini memanfaatkan ESP32 sebagai kendali utama, Load Cell HX711 untuk aktuasi pintu otomatis guna mencegah kelebihan muatan, serta dashboard web berbasis Laravel untuk monitoring status produksi, parameter RPM, dan estimasi biaya energi secara real-time.",
       "link": "#"
@@ -31,8 +31,8 @@
       "id": 3,
       "img": "images/perkakas.jpg",
       "title": "MEJA RAK PENYIMPANAN PERKAKAS",
-      "role_en": "Tim Mekanik",
-      "role_id": "Mechanical Team",
+      "role_en": "Mechanical Team",
+      "role_id": "Tim Mekanik",
       "tools": "Loadcell, LED/ 2025",
       "desc_en": "This project aims to design and create an ergonomic and efficient tool-storage workbench for MSME workshop workers, with a focus on reducing the risk of musculoskeletal pain. The rack design, measuring 121 cm × 50 cm × 124.5 cm, uses Galvanized Hollow Steel and Steel Plates to ensure long-term durability and functionality. The rack legs have been modified from static supports to rotating caster wheels with manual locks to improve mobility within the workspace. In addition to the mechanical aspects, the project integrates a weight-detection system using a Load Cell sensor and an HX711 module to monitor tool availability and trigger indicators such as LED lights. Although the electronic system faced constraints and could not be physically implemented before the deadline, the design has been documented for further development. Overall, the mechanical components have been completed and meet the main objectives of the project.",
       "desc_id": "Proyek ini bertujuan merancang dan membuat meja rak penyimpanan perkakas yang ergonomis dan efisien untuk pekerja bengkel UMKM, dengan fokus mengurangi risiko nyeri muskuloskeletal. Desain rak berdimensi 121 cm x 50 cm x 124,5 cm menggunakan material Besi Hollow Galvanis dan Besi Plat untuk menjamin ketahanan dan fungsionalitas jangka panjang. Kaki rak telah dimodifikasi dari statis menjadi beroda putar dengan pengunci manual untuk mobilitas yang lebih mudah di area kerja. Selain aspek mekanik, proyek ini mengintegrasikan sistem deteksi berat berbasis sensor Load Cell dan modul HX711 untuk memantau ketersediaan perkakas dan memicu indikator seperti lampu LED. Meskipun sistem elektronik terkendala dan belum diimplementasikan secara fisik sebelum batas waktu, rancangan telah didokumentasikan untuk pengembangan lebih lanjut. Secara umum, bagian mekanik telah selesai dan memenuhi tujuan utama proyek.",
@@ -110,6 +110,7 @@
   ]
 
 }
+
 
 
 
