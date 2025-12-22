@@ -7,6 +7,17 @@
   "projects": [
     {
       "id": 1,
+      "img": "images/pelcutron-project.png",
+      "title": "PELCUTRON (Pellet Automation System): Pakan Ayam dengan Kendali Kecepatan Variatif dan Load Cell Otomatis",
+      "role_en": "IoT & Embedded System Developer",
+      "role_id": "Pengembang IoT & Sistem Tertanam",
+      "tools": "ESP32, HX711 Load Cell, BTS7960 Driver, Servo, Laravel / 2025",
+      "desc_en": "An integrated automation solution for poultry feed pelletizing featuring variable speed control and precise weight measurement. The system utilizes ESP32 for main control, Load Cell HX711 for automatic gate actuation to prevent overfeeding, and a Laravel-based web dashboard for real-time monitoring of production status, RPM parameters, and energy cost estimation.",
+      "desc_id": "Solusi otomatisasi terpadu untuk pencacahan pakan pelet ayam yang dilengkapi kendali kecepatan variatif dan pengukuran berat presisi. Sistem ini memanfaatkan ESP32 sebagai kendali utama, Load Cell HX711 untuk aktuasi pintu otomatis guna mencegah kelebihan muatan, serta dashboard web berbasis Laravel untuk monitoring status produksi, parameter RPM, dan estimasi biaya energi secara real-time.",
+      "link": "#"
+    },
+    {
+      "id": 2,
       "img": "images/rcpo-web.png",
       "title": "SISTEM ROBOT PEMBERSIH KOTORAN SAPI DENGAN DETEKSI BERBASIS MACHINE LEARNING DAN KONTROL WEB",
       "role_en": "Project Manager",
@@ -17,7 +28,7 @@
       "link": "https://smartcow-web.vercel.app/"
     },
     {
-      "id": 2,
+      "id": 3,
       "img": "images/perkakas.jpg",
       "title": "MEJA RAK PENYIMPANAN PERKAKAS",
       "role_en": "Tim Mekanik",
@@ -28,7 +39,7 @@
       "link": "videos/perkakas_video.mp4"
     },
     {
-      "id": 3,
+      "id": 4,
       "img": "images/mobile.jpg",
       "title": "Sistem Deteksi Anti-Maling Menggunakan Sensor PIR dengan Integrasi Web dan Firebase",
       "role_en": "IOT Developer",
@@ -39,7 +50,7 @@
       "link": "#"
     },  
     {
-      "id": 4,
+      "id": 5,
       "img": "images/sensor.jpg",
       "title": "Automatic Earthquake Detector using ADXL355 Sensor",
       "role_en": "Embedded Systems Engineer",
@@ -50,7 +61,7 @@
       "link": "#"
     },
     {
-      "id": 5,
+      "id": 6,
       "img": "images/radig.jpg",
       "title": "Object Counter System with Seven-Segment Display",
       "role_en": "Electronic System Designer",
@@ -61,7 +72,7 @@
       "link": "#"
     },
     {
-      "id": 6,
+      "id": 7,
       "img": "images/elektronika.jpg",
       "title": "Electric Piano using NE555 Timer IC",
       "role_en": "Electronics Hobbyist / Circuit Designer",
@@ -99,6 +110,7 @@
   ]
 
 }
+
 
 
 
