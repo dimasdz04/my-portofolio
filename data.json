@@ -7,7 +7,7 @@
   "projects": [
     {
       "id": 1,
-      "img": "images/pelcutron-project.jpeg",
+      "img": "images/pelcutron-project.jpg",
       "title": "PELCUTRON (Pellet Automation System): Pakan Ayam dengan Kendali Kecepatan Variatif dan Load Cell Otomatis",
       "role_en": "IoT & Embedded System Developer",
       "role_id": "Pengembang IoT & Sistem Tertanam",
@@ -110,6 +110,7 @@
   ]
 
 }
+
 
 
 
