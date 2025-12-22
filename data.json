@@ -88,7 +88,7 @@
     },
     {
       "id": 102,
-      "img": "file/CCNA-_Introduction_to_Networks_certificate_dimasdzikra-apps-ipb-ac-id_a4ebdef0-9416-4f31-bd4f-fbf1fdf142de.pdf",
+      "img": "images/ccna1.png",
       "title": "CCNA: Introduction to Networks",
       "issuer": "Cisco",
       "date": "2022",
@@ -99,4 +99,5 @@
   ]
 
 }
+
 
